@@ -2,7 +2,6 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:cli_util/cli_util.dart';
 import 'package:args/args.dart';
-import 'package:first_attempt/first_attempt.dart' as first_attempt;
 
 const lineNumber = 'line-number';
 
